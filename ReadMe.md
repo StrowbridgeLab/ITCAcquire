@@ -10,22 +10,16 @@ While the source code provided is functional, it is not recommended for general 
 
 ## Dependencies
 
-XDMessaging.dll (Inter-process communication library)
-
-ITCMM64.dll (low-level ITC18 library provided by Instrutech)
-
+XDMessaging.dll (Inter-process communication library) <br />
+ITCMM64.dll (low-level ITC18 library provided by Instrutech) <br />
 ZedGraph (used to create graphs during seal test runs)
 
 ## Contact Information
 
-Ben W. Strowbridge 
-
-Dept. of Neurosciences 
-
-Case Western Reserve University 
-
-Cleveland, Ohio 44106 
-
+Ben W. Strowbridge <br />
+Dept. of Neurosciences <br />
+Case Western Reserve University <br />
+Cleveland, Ohio 44106 <br />
 bens@case.edu
 
 ## License
